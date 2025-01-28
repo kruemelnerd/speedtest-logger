@@ -165,6 +165,9 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 
+# CSV
+~$*.csv
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
